@@ -1,0 +1,24 @@
+{
+  "name": "zookeepr",
+  "version": "1.0.0",
+  "description": "For the Zoo Keepr application, I was given a front end to work with. When I finish building the back end (i.e., server), I'll connect it to the front-end code. This will allow the front end to make AJAX requests to my server.",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Deiondrae/Zookeepr.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Deiondrae/Zookeepr/issues"
+  },
+  "homepage": "https://github.com/Deiondrae/Zookeepr#readme",
+  "dependencies": {
+    "express": "^4.18.1"
+  }
+}
